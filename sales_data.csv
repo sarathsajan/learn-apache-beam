@@ -1,0 +1,9 @@
+transaction_id,category,item,price
+101,Electronics,Laptop,1200.0
+102,Furniture,Desk,250.0
+103,Electronics,Monitor,350.0
+104,Office Supplies,Pens,15.25
+105,Furniture,Chair,120.0
+106,Office Supplies,Notebooks,8.5
+107,Electronics,Mouse,45.0
+108,Office Supplies,Paper,22.1
